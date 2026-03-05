@@ -44,8 +44,6 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="65" />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" />
-  <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" />
@@ -59,11 +57,6 @@
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrovaz100&theme=dark&hide_border=true&background=0D1117&stroke=00c3ff&ring=00c3ff&fire=00c3ff&currStreakLabel=00c3ff" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrovaz100&show_icons=true&count_private=true&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=c9d1d9&bg_color=0d1117" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovaz100&layout=compact&hide_border=true&title_color=00c3ff&text_color=FFFFFF&bg_color=0d1117" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrovaz100&bg_color=0d1117&color=00c3ff&line=00c3ff&point=00c3ff&area=true&hide_border=true" />
 
 </div>
 
